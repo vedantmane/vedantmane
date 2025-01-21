@@ -19,7 +19,9 @@ Welcome to my GitHub profile! I'm a **Master's student in Information Systems at
 ---
 
 ## 📊 GitHub Stats
+
 ![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantmane&show_icons=true&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantmane&layout=compact&theme=radical)
 
 ---
