@@ -4,6 +4,12 @@ Welcome to my GitHub profile! I'm a **Master's student in Information Systems at
 
 ---
 
+## 🌐 Connect with Me
+- 🌍 [LinkedIn](https://www.linkedin.com/in/vedant-mane/)
+- 📫 Email: vedant12mane@gmail.com | mane.v@northeastern.edu
+
+---
+
 ## 🚀 About Me
 - 💻 **Systems Engineer (3+ years):** Managed core banking operations, ensuring seamless processing of 450M+ daily transactions for 25,000+ branches.
 - 🎓 **Education:** Bachelor's in Computer Science (KJ Somaiya College) | Master's in Computer Science (Ruia College).
@@ -44,14 +50,8 @@ Welcome to my GitHub profile! I'm a **Master's student in Information Systems at
 ---
 
 ## 📊 GitHub Stats
-![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vedant123&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vedant123&layout=compact&theme=radical)
-
----
-
-## 🌐 Connect with Me
-- 🌍 [LinkedIn](https://linkedin.com/in/vedant)
-- 📫 Email: vedant@example.com
+![Vedant's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedantmane&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantmane&layout=compact&theme=radical)
 
 ---
 
