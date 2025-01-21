@@ -1,51 +1,20 @@
 # Hi there, I'm Vedant! 👋
 
-Welcome to my GitHub profile! I'm a **Master's student in Information Systems at Northeastern University**, passionate about leveraging technology to solve real-world problems. With a solid foundation in **Core Banking Operations** and **Data Science**, I'm currently enhancing my skills to contribute to innovative projects and sustainable solutions.
+Welcome to my GitHub profile! I'm a **Master's student in Information Systems at Northeastern University**, passionate about leveraging data and technology to create innovative solutions. With hands-on experience in **machine learning**, **data analysis**, and **software engineering**, I'm excited to showcase my journey and projects here.
 
 ---
 
 ## 🌐 Connect with Me
-- 🌍 [LinkedIn](https://www.linkedin.com/in/vedant-mane/)
-- 📫 Email: vedant12mane@gmail.com | mane.v@northeastern.edu
+- 🌍 [LinkedIn](https://linkedin.com/in/vedant-mane/)
+- 📫 Email: mane.v@northeastern.edu | vedant12mane@gmail.com
+- 💻 [Portfolio](https://bento.me/vedantmane)
 
 ---
 
-## 🚀 About Me
-- 💻 **Systems Engineer (3+ years):** Managed core banking operations, ensuring seamless processing of 450M+ daily transactions for 25,000+ branches.
-- 🎓 **Education:** Bachelor's in Computer Science (KJ Somaiya College) | Master's in Computer Science (Ruia College).
-- 🌟 **Immediate Goal:** Become a **Data Scientist at Apple**, contributing to cutting-edge technologies.
-- 🎯 **Ultimate Goal:** Serve as a **CXO at Apple**, driving sustainable business solutions.
-
----
-
-## 🔧 Skills & Tools
-### Programming Languages
-- Python | SQL | Java | JavaScript
-
-### Frameworks & Libraries
-- Pandas | NumPy | Selenium | BeautifulSoup | Flask | Shiny
-
-### Tools & Platforms
-- Git | Docker | Jenkins (CI/CD) | Tableau | Power BI
-
-### Specializations
-- Data Analysis | Data Visualization | Automation
-- Social Media Data Collection (e.g., Twitter, Reddit Crawling)
-- Real-time Dashboard Development
-
----
-
-## 📈 Projects & Contributions
-### **Smart Device-Integrated Urban Well-being System**
-- Designed a system to address urban challenges in **health**, **education**, and **economic stability**.
-- Focused on **Expanding Economic Opportunity Initiatives**.
-
-### **COVID-19 & Happiness Index Analysis**
-- Developed an interactive **Shiny app** to explore the relationship between COVID-19 trends and happiness indexes.
-
-### **Core Banking Automation**
-- Built automated scripts and optimized SQL queries to enhance operational efficiency for 25,000+ branches.
-- Created real-time dashboards for decision-making.
+## 🔧 Technical Skills
+- **Languages:** Python, R, Java, SQL, PL/SQL, MongoDB, Firebase, HTML, CSS, PHP
+- **Technologies & Tools:** TensorFlow, Keras, Pandas, NumPy, scikit-learn, NLTK, OpenCV, GCP, Git, Linux, Unix
+- **Specializations:** Machine Learning, Deep Learning, Data Analysis, Automation, Data Visualization
 
 ---
 
@@ -55,4 +24,4 @@ Welcome to my GitHub profile! I'm a **Master's student in Information Systems at
 
 ---
 
-Thanks for stopping by! Let's collaborate to create impactful solutions. 😄
+Thanks for stopping by! Let's collaborate to build something impactful. 🚀
